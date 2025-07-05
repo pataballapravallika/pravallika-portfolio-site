@@ -12,7 +12,7 @@ const Hero: React.FC<HeroProps> = ({
         <div className="animate-fade-in">
           <div className="mb-8 flex justify-center">
             <div className="relative">
-              <img alt="Pravallika Pataballa" className="w-48 h-48 rounded-full object-cover shadow-2xl border-4 border-primary/30 animate-float" src="/lovable-uploads/40369861-d860-4257-92e7-397463734473.jpg" />
+              <img alt="Pravallika Pataballa" className="w-48 h-48 rounded-full object-cover shadow-2xl border-4 border-primary/30 animate-float" src="/lovable-uploads/d00e7764-1377-45ec-b1e5-5d2151c1c4de.jpg" />
               <div className=""></div>
             </div>
           </div>
