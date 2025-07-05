@@ -11,8 +11,8 @@ const Hero: React.FC<HeroProps> = ({
       <div className="container mx-auto px-4 text-center">
         <div className="animate-fade-in">
           <div className="mb-8 flex justify-center">
-            <div className="relative">
-              <img alt="Pravallika Pataballa" className="w-48 h-48 rounded-full object-cover shadow-2xl border-4 border-primary/30 animate-float" src="/lovable-uploads/40369861-d860-4257-92e7-397463734473.jpg" />
+            <div className="">
+              <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=300&h=300&fit=crop&crop=face" alt="Pravallika Pataballa" className="w-48 h-48 rounded-full object-cover shadow-2xl border-4 border-primary/30 animate-float" />
               <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-primary/20 to-secondary/20"></div>
             </div>
           </div>
