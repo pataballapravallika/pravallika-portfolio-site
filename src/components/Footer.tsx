@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
           {/* Copyright */}
           <div className="pt-8 border-t border-border">
             <p className="text-sm text-muted-foreground flex items-center justify-center gap-2">
-              © 2024 Built with <Heart className="text-red-500 w-4 h-4" /> by Pravallika Pataballa
+              © 2025 Pravallika Pataballa
             </p>
           </div>
         </div>
